@@ -1,0 +1,11 @@
+{
+    "name": "RealTimeDrawingPad",
+    "version": "0.0.1",
+    "description": "Real time Drawing Pad",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "node" : "latest"
+    },
+    "author": "Janitha Tennakoon"
+}
